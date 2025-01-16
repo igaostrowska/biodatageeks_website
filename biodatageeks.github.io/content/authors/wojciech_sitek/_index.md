@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Wojciech Sitek
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Wojciech
+last_name: Sitek
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Asocciate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Warsaw University of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
