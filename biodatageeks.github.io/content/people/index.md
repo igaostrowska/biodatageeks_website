@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+date: 2025-10-24
 
 type: landing
 
@@ -22,5 +22,5 @@ sections:
     design:
       show_interests: false
       show_role: true
-      show_social: true
+      show_social: false
 ---

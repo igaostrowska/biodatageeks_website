@@ -27,15 +27,13 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Master's degree, Information Technology
+      institution: Politechnika Warszawska
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor's degree, Information Technology
+      institution: Politechnika Warszawska
+      year: 2010
+    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

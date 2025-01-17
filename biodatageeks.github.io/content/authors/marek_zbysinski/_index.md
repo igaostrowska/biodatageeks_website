@@ -10,11 +10,11 @@ last_name: Zbysiński
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Warsaw University of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:marek@research.zbysinski.com '
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
