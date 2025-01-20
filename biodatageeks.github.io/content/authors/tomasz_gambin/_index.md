@@ -27,15 +27,18 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Associate Professor
+      institution: Warsaw University of Technology
+      year: 2021
+    - course: Professor Assistant
+      institution: Warsaw University of Technology
+      year: 2018
+    - course: PhD Computer Science
+      institution: Warsaw University of Technology
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc
+      institution: Warsaw University of Technology
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +47,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:tomasz.gambin@pw.edu.pl'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=7yNxok4AAAAJ&hl=pl
   - icon: github
     icon_pack: fab
     link: https://github.com/tgambin
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/tomasz-gambin-a763253/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,10 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+MSc (2007); PhD (2012); Computer Science, Assistant Professor, Division of Information Systems; Bioinformatics, Genomics; Data Mining and Statistical Methods in Molecular Biology and Medicine; Rector’s Award in Science (2013), (2016); "Iuventus Plus” (2016); Foundation for Polish Science Award for Young Scientists Start (2010, 2011); Polish Ministry of Science Outstanding Young Scholar Award (2016);since 2020 he has been the deputy director for research at this institute. Rector’s Award in Science (2020); Associate Professor (2021). Rector’s Award in Education (2021).
