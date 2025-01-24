@@ -19,9 +19,9 @@ sections:
         postcode: '00-665 '
         country: Poland
         country_code: Pl
-      #coordinates:
-       # latitude: '37.4275'
-       # longitude: '-122.1697'
+      coordinates:
+        latitude: '52.2207'
+        longitude: '21.0065'
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday - Friday 9:00 to 17:00'
