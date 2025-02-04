@@ -18,7 +18,7 @@ sections:
         <div style="text-align: center;">
         <br>
         
-        **BiodataGeeks** is a research team at Warsaw University of Technology, bringing together faculty, PhD students, and students to explore the frontiers of bioinformatics, genomics, and genetic data analysis. Specializing in next-generation sequencing, we engage in a variety of projects and collaborate with both domestic and international partners to advance knowledge and innovation in the field.
+        **BiodataGeeks** is a research team at Warsaw University of Technology, uniting faculty, PhD students, and students to explore bioinformatics, genomics, and genetic data analysis.
         </div>
 
   - block: collection
