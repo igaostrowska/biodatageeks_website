@@ -1,5 +1,6 @@
 ---
 title: Tour
+hidden: true
 date: 2022-10-24
 
 type: landing
